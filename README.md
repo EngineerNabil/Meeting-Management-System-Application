@@ -18,7 +18,7 @@ There are some pictures that show what the program looks like:
 <h2>
 Built With:
 </h2>
-* Java Swing
-* FlatLaf
-* Oracle Database
-* Python
+* Java Swing<br>
+* FlatLaf<br>
+* Oracle Database<br>
+* Python<br>
