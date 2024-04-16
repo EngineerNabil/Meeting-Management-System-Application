@@ -22,3 +22,6 @@ Built With:
 * FlatLaf<br>
 * Oracle Database<br>
 * Python<br>
+
+<h2>Contact</h2>
+<B>Mohamed Nabil</B> - <a href = "https://www.linkedin.com/in/mohamed-nabil-mohamed-9286272b6">LinkedIn</a> - <a href = "mohamednabil5011@gmail.com">Gmail</a>
