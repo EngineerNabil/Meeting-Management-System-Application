@@ -15,3 +15,10 @@ There are some pictures that show what the program looks like:
 8-Printing Page:           ![Printing page](https://github.com/EngineerNabil/Meeting-Management-System-Application/assets/118196473/0e6d1cc0-2194-4cd1-b376-62bd27821ac8)<br>
 9-Log-Out Page:            ![Log Out](https://github.com/EngineerNabil/Meeting-Management-System-Application/assets/118196473/9188eb81-c080-407f-b69a-0ab41e6e73ca)<br>
 
+<h2>
+Built With:
+</h2>
+* Java Swing
+* FlatLaf
+* Oracle Database
+* Python
