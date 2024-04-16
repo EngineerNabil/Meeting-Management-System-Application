@@ -16,7 +16,7 @@ There are some pictures that show what the program looks like:
 9-Log-Out Page:            ![Log Out](https://github.com/EngineerNabil/Meeting-Management-System-Application/assets/118196473/9188eb81-c080-407f-b69a-0ab41e6e73ca)<br>
 
 <h2>
-Built With:
+Built by:
 </h2>
 * Java Swing<br>
 * FlatLaf<br>
