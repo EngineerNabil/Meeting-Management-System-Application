@@ -18,15 +18,15 @@ There are some pictures that show what the program looks like:
 <h2>
 Built by:
 </h2>
-- UI & UX Design:
-* Figma.
-- Programming language:
+- UI & UX Design:<br>
+* Figma.<br>
+- Programming language:<br>
 * Java Swing<br>
-- Advanced UI Design using:
+- Advanced UI Design using:<br>
 * FlatLaf<br>
-- Database:
+- Database:<br>
 * Oracle Database<br>
-- Encrypt data using:
+- Encrypt data using:<br>
 * Python<br>
 
 <h2>Contact</h2>
