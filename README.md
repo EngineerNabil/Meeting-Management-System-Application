@@ -5,9 +5,7 @@ Imagine a desktop application that efficiently and effortlessly streamlines your
 <h2>
 There are some pictures that show what the program looks like:
 </h2>
-1-Loading Page:<br>            
-<img src="[images/example.png](https://github.com/EngineerNabil/Meeting-Management-System-Application/assets/118196473/d5c4acc2-131b-49dc-a2f8-f110c5118283)" alt="Loading Page" width="500"/>
-(https://github.com/EngineerNabil/Meeting-Management-System-Application/assets/118196473/d5c4acc2-131b-49dc-a2f8-f110c5118283)<br>
+1-Loading Page:<br>            (https://github.com/EngineerNabil/Meeting-Management-System-Application/assets/118196473/d5c4acc2-131b-49dc-a2f8-f110c5118283)<br>
 2-Login Page:<br>              (https://github.com/EngineerNabil/Meeting-Management-System-Application/assets/118196473/a9b85477-5120-4856-aa01-95780b746e8d)<br>
 3-Sign-Up Page:<br>            (https://github.com/EngineerNabil/Meeting-Management-System-Application/assets/118196473/08ad0fbf-36f2-455a-b6b4-de1785eeeeea)<br>
 4-Forget Password:<br>         (https://github.com/EngineerNabil/Meeting-Management-System-Application/assets/118196473/9224d40a-41f2-41b5-8c93-c08c739b8d34)<br>
