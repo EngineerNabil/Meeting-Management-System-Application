@@ -3,7 +3,7 @@
 Imagine a desktop application that efficiently and effortlessly streamlines your daily tasks. It is a smooth tool that offers intuitive features and smooth navigation. This application is your trusted companion, offering an easy-to-use interface that is elegant and practical. With its simple design and powerful capabilities, it turns complex processes into simple and fun experiences. Whether you are a professional or casual user, this desktop application boosts your productivity and brings a sense of ease to your digital life.
 
 <h2>
-There are some pictures that show what the program looks like:
+There are some pictures that show what the Application looks like:
 </h2>
 1-Loading Page:<br>            (https://github.com/EngineerNabil/Meeting-Management-System-Application/assets/118196473/d5c4acc2-131b-49dc-a2f8-f110c5118283)<br>
 2-Login Page:<br>              (https://github.com/EngineerNabil/Meeting-Management-System-Application/assets/118196473/a9b85477-5120-4856-aa01-95780b746e8d)<br>
